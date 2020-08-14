@@ -9,3 +9,4 @@ Directories
 * fastq - RNA seq files
 * genome - FASTA files
 
+# bootcamp
